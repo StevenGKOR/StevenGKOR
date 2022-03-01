@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StevenGKOR
 - 👀 I’m interested in software engineering
-- C#-ASP.NET,Python-Django,Javascript-NodeJs
+- C#,Python,Javascript,HTML,CSS
 
 - 📫 How to reach me -> stevegkortsopoulos@gmail.com
 
