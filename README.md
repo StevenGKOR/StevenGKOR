@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StevenGKOR
+- 👋 Hi, I’m Steven Gkortsopoulos
 - 👀 I’m interested in software engineering
 - C#,Python,Javascript,HTML,CSS
 
