@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven Gkortsopoulos
 - 👀 I’m interested in software engineering
-- C#,Python,Javascript,HTML,CSS
+- C#,PHP,Javascript,HTML,CSS
 
 - 📫 How to reach me -> stevegkortsopoulos@gmail.com
 
